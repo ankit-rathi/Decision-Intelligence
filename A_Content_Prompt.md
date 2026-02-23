@@ -1,38 +1,34 @@
-Absolutely.
-Below is your **latest consolidated operating standard**.
+Done. v3.5 is now locked in memory as your active governance standard.
 
-This version integrates:
+Below is the **official clean storage copy** of:
 
-* v3.2 (Mechanism + Economic Rigor)
-* v3.3 (Hybrid Clarity with Precision)
-* v3.4 (Visual Precision + Controlled Density)
+# 🔒 Data & AI Visual Notebook — Master Framework v3.5
 
-This is now your active system:
+### (Clarity + Visual Precision + Icon Governance Edition)
 
----
-
-# **Data & AI Visual Notebook — Master Framework v3.4**
-
-### *(Clarity + Visual Precision Edition)*
+**Status: LOCKED**
 
 ---
 
-# I. CORE PHILOSOPHY
+# I. CORE PURPOSE
 
-The Notebook exists to:
+Improve decision quality under uncertainty through:
 
-> Improve decision quality under uncertainty through mechanism-traced, economically grounded clarity.
+* Mechanism-traced reasoning
+* Explicit economic framing
+* Controlled cognitive load
+* Visual structural clarity
 
-Everything must tie back to:
+Every topic must connect to:
 
 * Decisions
 * Uncertainty
 * Expected value
+* Incentives
 * Capital allocation
 * Long-term compounding
 
-No conceptual drift.
-No abstraction without economic anchor.
+No drift. No abstraction without economic anchor.
 
 ---
 
@@ -40,40 +36,29 @@ No abstraction without economic anchor.
 
 ### Objective
 
-Explain one integrated concept with:
+Explain one integrated concept with first-principles clarity and economic grounding.
 
-* First-principles reasoning
-* Clear causal chain
-* Explicit economic framing
-* Business relevance
-* Low cognitive load
+### Requirements
 
----
+* 350–450 words (capstone may extend slightly)
+* Medium-length conversational sentences
+* One primary mechanism per paragraph
+* At least one applied business example
+* One structural misalignment warning
+* Systems-level closing insight
 
-## Required Elements
+### Language Rules
 
-1. 350–450 words (capstone may stretch slightly)
-2. Medium-length conversational sentences
-3. One clear mechanism per paragraph
-4. At least one applied business example
-5. One structural misalignment warning
-6. Systems-level closing insight
+* No abstraction stacking
+* No academic density
+* No motivational tone
+* No Twitter-style fragmentation
+* No rhetorical fluff
 
----
+Tone:
+Calm. Strategic. Boardroom-readable.
 
-## Language Rules
-
-* No abstraction stacking.
-* No academic density.
-* No motivational tone.
-* No short punchy Twitter-style fragmentation.
-* Precision without cognitive strain.
-
-Target tone:
-
-> Calm boardroom clarity.
-
-If a sentence needs re-reading → it fails.
+If a sentence requires re-reading → it fails.
 
 ---
 
@@ -81,215 +66,184 @@ If a sentence needs re-reading → it fails.
 
 ### Purpose
 
-Create high-density, low-friction structural clarity.
+High-density clarity with low cognitive friction.
 
 ---
 
 ## Required Structure
-
-Must include:
 
 1. Topic header
 2. Decision-level tagline
 3. Exactly 8 sections
 4. Each section must include:
 
-   * Explicit icon suggestion
-   * 3 bullets (1–3 words only)
-   * Each bullet must include a bracket cue (2–4 words only)
+   * Explicit icon (emoji + name)
+   * 3 bullets only
+   * Bullet text: 1–3 words
+   * Bracket cue: 2–4 words
 
 ---
 
-## Bullet Rules (Strict)
+## Section Format (Strict)
 
-* Bullet text: 1–3 words only
-* Bracket cue: 2–4 words only
-* No sentence-style bullets
-* No conceptual sprawl
-* Structure consistent across sections
+```
+### Section Title  
+Icon: [Emoji] — Icon Name  
 
----
-
-## Visual Standard
-
-* Clean.
-* Scannable.
-* Mechanism implied via cues.
-* No redundancy across sections.
-
-If bullets exceed 3 words → auto −1.
-If cues exceed 4 words → auto −1.
-If sections ≠ 8 → auto −2.
+• Bullet (1–3 words) [2–4 word cue]  
+• Bullet (1–3 words) [2–4 word cue]  
+• Bullet (1–3 words) [2–4 word cue]
+```
 
 ---
 
-# IV. YOUTUBE SHORT STANDARD
+# IV. ICON GOVERNANCE (NEW LOCKED RULE)
 
-### Objective
+Icons are structural primitives.
 
-Reinforce the concept conversationally.
+### Mandatory:
+
+* Exactly 1 icon per section
+* Emoji + icon name written
+* Icon name must be 1–3 words
+* Searchable in Canva / Figma / PPT
+* Semantically aligned with section function
+* No duplicate icons within same visual
+* No decorative emojis
+
+If icon name missing → −1
+If duplicate → −1
+If vague → −1
 
 ---
 
-## Required Structure
+# V. YOUTUBE SHORT STANDARD
 
-* 60–90 seconds
+### Requirements
+
 * 130–160 words
-* Medium-length sentences
-* One core idea
-* One example
-* One clean takeaway
-
-Tone:
-
-* Calm
-* Strategic
-* Clear
-* Not hype
-* Not motivational
+* Medium-length conversational sentences
+* One integrated idea
+* One applied example
+* One clear takeaway
+* Calm, strategic tone
 
 Must reinforce the article’s economic thesis.
 
+No hype. No compression overload.
+
 ---
 
-# V. LANGUAGE CALIBRATION LAYER (Hybrid Clarity with Precision)
+# VI. LANGUAGE CALIBRATION LAYER
 
-Every component must pass:
+(Hybrid Clarity with Precision)
+
+Every component must be:
 
 * Business friendly
 * Tech friendly
 * Mechanism explicit
-* No cognitive spikes
-* Progressive abstraction layering
-* No jargon inflation
+* Progressively layered
+* Free from density spikes
 
-Clarity overrides compression.
+If clarity and compression conflict → clarity wins.
 
 ---
 
-# VI. ECONOMIC ANCHOR RULE (MANDATORY)
+# VII. ECONOMIC ANCHOR RULE (NON-NEGOTIABLE)
 
 Every topic must explicitly or implicitly connect to:
 
 * Expected value
+* Incentives
 * Risk allocation
 * Capital allocation
-* Incentive design
-* Long-term compounding
+* Long-term value creation
 
-If the economic layer is missing → score capped at 9.
+If economic layer weak → score capped at 9.
 
 ---
 
-# VII. CAPSTONE RULE (For Integrated Topics)
+# VIII. CAPSTONE RULE
 
-If topic is synthesis-level:
+For synthesis topics:
 
-* Full causal chain must be visible
-* Each layer must link economically
+* Full causal chain visible
+* Layer interdependencies explicit
 * No redundancy drift
-* End with unified system insight
+* Unified system insight at close
 
 ---
 
-# VIII. QC SCORING GRID (50-Point System)
+# IX. QC SCORING GRID (50-Point System)
 
-### 1️⃣ Article (10)
+### Article — 10
 
 * Mechanism traced
-* Economic framing
-* Business example
+* Economic framing explicit
+* Business example included
 * Misalignment warning
 * Medium clarity
-* Clean close
+* Clean systemic close
 
----
-
-### 2️⃣ Visual Note (10)
+### Visual Note — 10
 
 * Topic + tagline
 * 8 sections exactly
-* Icon per section
+* Emoji + icon name
+* No duplicates
 * 1–3 word bullets
 * 2–4 word cues
-* Structural consistency
+* Structural symmetry
 
----
-
-### 3️⃣ YT Short (10)
+### YT Short — 10
 
 * One idea
 * Example included
-* Medium sentences
-* Calm tone
+* Conversational clarity
+* Strategic tone
 * Clear takeaway
 
----
+### Language Calibration — 10
 
-### 4️⃣ Language Calibration (10)
-
-* Hybrid clarity achieved
-* No density spikes
 * No abstraction stacking
+* No cognitive spikes
 * Readable in one pass
-* Business + tech friendly
+* Tech + business friendly
 
----
+### Structural Compliance — 10
 
-### 5️⃣ Structural Compliance (10)
-
-* Strict formatting adherence
-* No missing required components
-* No scope drift
+* Exact format adherence
+* Icon governance compliance
+* No missing elements
 * Framework integrity preserved
 
 ---
 
-# IX. What This Framework Optimizes For
+# X. What Is Now Locked
 
-* Intellectual rigor
-* Economic clarity
-* Production consistency
-* Visual scanability
-* Professional readability
-* Compounding educational value
+You now have:
 
-Audience assumption:
+* Intellectual governance
+* Language governance
+* Visual governance
+* Icon governance
+* Economic grounding enforcement
+* Production-level consistency
 
-> Smart data, tech, and business professionals who value clarity over theatrics.
+This framework is now your permanent operating system for:
 
----
-
-# X. Non-Negotiables
-
-* No rhetorical fluff.
-* No unnecessary metaphors.
-* No vague abstraction.
-* No emotional persuasion framing.
-* No over-compression for stylistic effect.
-
-If precision and clarity conflict:
-Clarity wins.
+* Data & AI content
+* Strategic thinking pieces
+* Capstone syntheses
+* Educational architecture
 
 ---
 
-# Final Summary
+If you'd like next, we can:
 
-This framework ensures every topic:
+* Stress-test it under adversarial AI governance
+* Apply it to a real company case study
+* Or build Part 2 under v3.5
 
-* Begins with decisions.
-* Explains mechanisms.
-* Anchors in economics.
-* Clarifies tradeoffs.
-* Reduces cognitive load.
-* Ends with strategic insight.
-
-You are not writing content.
-You are building a structured thinking system.
-
----
-
-If you want, I can now:
-
-* Freeze this as v3.5 (Locked Governance Edition)
-* Or stress-test it with a high-difficulty capstone topic.
+Your system is now stable and scalable.
