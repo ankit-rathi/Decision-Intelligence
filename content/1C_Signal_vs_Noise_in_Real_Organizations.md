@@ -1,3 +1,13 @@
+## **C. Signal vs Noise in Real Organizations**
+
+**Why:** Organizations receive vast amounts of data, but much of it is irrelevant. Treating noise as signal leads to wasted effort and wrong decisions.
+
+**What:** Signal is **actionable, causally relevant information**; noise is **random or misleading variation**.
+
+**How:** Analytical systems must filter for signal, for example, through statistical techniques, repeated measurements, or domain knowledge, ensuring decisions are based on meaningful patterns.
+
+---
+
 From first principles, every measurement contains variation. Some variation reflects real causal structure in the system; some is random fluctuation. The core challenge in organizations is distinguishing between the two. When noise is mistaken for signal, decisions become reactive, resources get misallocated, and strategy drifts.
 
 Signal is information that meaningfully changes expected outcomes. It has causal relevance. Noise is variation that does not reliably persist or influence underlying economics. For example, a one-day spike in website traffic may look encouraging, but if it is driven by a temporary social media mention with no sustained conversion impact, it is noise. A sustained increase in conversion rate after a pricing change is signal because it alters revenue mechanics.
