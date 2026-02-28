@@ -179,8 +179,6 @@ Measuring decision quality is more meaningful than tracking surface-level metric
 
 Systems that keep decisions at the center turn data and models into tools for real impact rather than ends in themselves.
 
----
-
 ### 1B. Uncertainty, Risk & Expected Value
 
 Every decision involves uncertainty because future outcomes cannot be known with certainty.
@@ -199,8 +197,6 @@ Decision frameworks use expected value to compare options more objectively.
 
 By accounting for risk and uncertainty, organizations can make choices that improve long-term outcomes instead of reacting to short-term noise.
 
----
-
 ### 1C. Signal vs Noise in Real Organizations
 
 Organizations generate huge amounts of data, but not all of it is useful.
@@ -218,8 +214,6 @@ Statistical methods, repeated observations, and domain expertise help filter out
 Strong analytical systems are designed to highlight consistent, meaningful patterns.
 
 When decisions are based on true signal rather than noise, organizations allocate resources more effectively and improve results over time.
-
----
 
 ### 1D. Metrics vs Reality — When KPIs Lie
 
