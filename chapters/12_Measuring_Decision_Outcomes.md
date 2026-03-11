@@ -129,7 +129,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Measuring the Impact of a Customer Retention Strategy
+## Example — Measuring the Impact of a Customer Retention Strategy
 
 Consider an online subscription platform attempting to reduce customer churn.
 
@@ -164,7 +164,7 @@ Through systematic outcome measurement, the organization learns whether its deci
 
 ---
 
-## Final Section — Turning Outcomes Into Organizational Learning
+## Turning Outcomes Into Organizational Learning
 
 * Measuring decision outcomes closes the loop between actions and results.
 * By defining success metrics, collecting outcome data, and isolating causal effects, organizations gain insight into how decisions influence performance.
