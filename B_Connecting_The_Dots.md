@@ -3,6 +3,9 @@ Each chapter is ~150 words and written as **a tight logical chain**, where every
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/21cdd5f9-0732-4cbe-88ef-16eb0cad9f89" />
 
+<img width="2385" height="2370" alt="image" src="https://github.com/user-attachments/assets/096397ce-ce40-4f06-846b-dbee81064bbb" />
+
+
 ---
 
 # PART I — Foundations: Why Data Exists
