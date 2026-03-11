@@ -116,7 +116,7 @@ Actions then produce outcomes that affect both the organization and its environm
 
 **Transition to the Next Chapter**
 
-If decisions depend on information about the world, the next question becomes how organizations obtain that information. The following chapter explores how observations about reality are captured, measured, and transformed into data.
+Organizations constantly make decisions under uncertainty, attempting to choose actions that lead to better outcomes. But good decisions require information about the world in which those decisions operate. The next chapter explores why organizations capture observations as data and how data becomes the raw material for decision intelligence.
 
 ---
 
