@@ -182,8 +182,9 @@ Through these mechanisms, the organization ensures that high-stakes financial de
 * Systems that monitor quality, enforce governance, and track lineage ensure that data remains accurate and transparent.
 * When users trust the integrity of data, they are more willing to rely on analytical insights and automated decisions.
 
-With trusted data in place, organizations can confidently build intelligence systems that influence real-world actions.
-The next chapter explores how these systems operate in practice through **decision interfaces that connect analytical insights to human and automated decision-makers**.
+**Transition to the Next Chapter**
+
+When organizations trust their data, they can confidently use it to support analytics and automated decisions. Yet even trusted systems can degrade or fail if they are not continuously monitored. The next chapter explores observability systems that track the health of data pipelines, models, and decision outcomes.
 
 ---
 
