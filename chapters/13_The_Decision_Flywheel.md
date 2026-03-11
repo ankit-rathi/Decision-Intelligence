@@ -178,7 +178,9 @@ Over time, the platform develops deep insight into user preferences, strengtheni
 * When this information is captured and integrated into intelligence systems, organizations improve their decision-making capabilities over time.
 * The compounding effect of repeated learning cycles creates powerful advantages that accumulate gradually but persist over the long term.
 
-The next chapter explores how organizations design the **infrastructure and processes that support these learning systems**, ensuring that decision intelligence continues to evolve as new data emerges.
+**Transition to the Next Chapter**
+
+The Decision Flywheel illustrates how repeated cycles of decisions and feedback gradually improve organizational intelligence. However, these cycles must operate efficiently without disrupting day-to-day operations. The next chapter explores the Dual Loop Architecture, which separates real-time decision execution from offline learning systems.
 
 ---
 
