@@ -195,7 +195,9 @@ Through this architecture, the platform improves fraud detection accuracy while 
 * Execution systems focus on reliability and speed, while learning systems focus on experimentation and model evolution.
 * By connecting these loops through feedback and deployment pipelines, organizations create systems that **improve continuously without destabilizing production environments**.
 
-The next chapter examines how organizations coordinate **data pipelines, experimentation frameworks, and governance practices** to support these evolving intelligence systems at scale.
+**Transition to the Next Chapter**
+
+Separating execution and learning allows organizations to improve models without interrupting operational systems. Yet learning can occur in different ways—either passively from observed outcomes or actively through controlled experimentation. The next chapter explores experimentation systems that accelerate learning by systematically testing alternatives.
 
 ---
 
