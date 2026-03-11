@@ -120,7 +120,7 @@ Design suggestions:
 
 ---
 
-## Example Section — A Data-Driven E-Commerce Platform
+## Example — A Data-Driven E-Commerce Platform
 
 Consider how an e-commerce company operates as a data-driven organization.
 
@@ -158,7 +158,7 @@ Through this loop, the company continuously improves its recommendations and ada
 
 ---
 
-## Final Section — Building Organizations That Learn from Their Decisions
+## Building Organizations That Learn from Their Decisions
 
 * A data-driven organization does not simply collect large volumes of data.
 * Its defining characteristic is the ability to **convert data into better decisions through continuous learning**.
