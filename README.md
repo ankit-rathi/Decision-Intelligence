@@ -25,7 +25,7 @@ Below is a **publisher-grade refined Table of Contents**.
 
 ---
 
-# The Decision Intelligence Loop
+# The Decision Intelligence Engine
 
 ### How Data, AI, and Feedback Systems Turn Observations into Better Decisions
 
