@@ -4,6 +4,8 @@
 
 ---
 
+---
+
 # PART I — Foundations: Decisions, Uncertainty, and Information
 
 Modern organizations exist to make decisions under uncertainty.
