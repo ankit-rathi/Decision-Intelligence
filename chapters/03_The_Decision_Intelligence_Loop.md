@@ -2,7 +2,7 @@
 
 ---
 
-## When Insights Fail to Change Behavior *(Opening Observation)*
+## When Insights Fail to Change Behavior 
 
 Modern organizations invest heavily in analytics infrastructure. Data platforms ingest large volumes of operational signals, dashboards visualize performance metrics, and analysts generate reports about customer behavior, revenue trends, and system performance. Executives regularly review these insights in meetings and performance reviews.
 
@@ -14,7 +14,7 @@ This disconnect reveals an important reality. Producing information is only one 
 
 ---
 
-## The Persistent Insight–Action Gap *(Problem)*
+## The Persistent Insight–Action Gap 
 
 In many organizations, analytics efforts concentrate on reporting rather than decision-making. Dashboards summarize key performance indicators, track trends, and highlight anomalies across business operations. These tools provide valuable visibility into past and present activity.
 
@@ -28,7 +28,7 @@ Without a structured pathway linking information to action, the value of analyti
 
 ---
 
-## From Observation to Action *(Core Idea)*
+## From Observation to Action 
 
 To convert information into effective action, organizations require a system that connects observation, analysis, and decision-making. Information must flow through a sequence of stages that transform raw signals into coordinated organizational responses.
 
@@ -40,7 +40,7 @@ Rather than treating analytics as a standalone activity, the loop integrates dat
 
 ---
 
-## The Flow from Reality to Learning *(System Model)*
+## The Flow from Reality to Learning 
 
 The Decision Intelligence Loop can be represented as a sequence of stages that connect the external world to organizational action:
 
@@ -64,7 +64,7 @@ Finally, outcomes generate **learning**. Organizations compare expectations with
 
 ---
 
-## How the Decision Intelligence Loop Operates *(Mechanism)*
+## How the Decision Intelligence Loop Operates 
 
 ### Limitations of Dashboards and Reporting
 
@@ -110,7 +110,7 @@ Organizational silos, fragmented responsibilities, and weak feedback mechanisms 
 
 ---
 
-## Example: Dashboard-Driven Decision Cycles *(Real-World Example)*
+## Example: Dashboard-Driven Decision Cycles
 
 Many organizations manage operations through centralized dashboards that track key performance metrics. Sales figures, user activity levels, customer engagement measures, and operational indicators are displayed in real time for leadership teams.
 
@@ -124,7 +124,7 @@ The effects of these actions appear in subsequent performance metrics. Updated d
 
 ---
 
-## Designing Organizations Around Decision Flow *(Strategic Insight)*
+## Designing Organizations Around Decision Flow 
 
 Organizational performance depends on how effectively information moves from observation to action. Data systems reveal signals about the environment, but those signals create value only when they influence decisions and guide resource allocation.
 
