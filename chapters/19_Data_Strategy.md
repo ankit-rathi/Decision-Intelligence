@@ -2,7 +2,7 @@
 
 ---
 
-## The Gap Between Data Investment and Business Impact *(Opening Observation)*
+## The Gap Between Data Investment and Business Impact 
 
 Organizations today invest heavily in data infrastructure, analytics platforms, and machine learning capabilities. Data warehouses are modernized, pipelines are scaled, and teams adopt advanced modeling techniques. From a technical perspective, these systems often represent significant progress.
 
@@ -12,7 +12,7 @@ This gap reveals a structural issue. Data systems are being built, but they are 
 
 ---
 
-## The Fragmentation of Data Efforts *(Problem)*
+## The Fragmentation of Data Efforts 
 
 In many organizations, data initiatives emerge without a clear strategic anchor. Teams pursue projects based on technical curiosity, available tools, or localized business requests. As a result, efforts become fragmented across multiple low-impact use cases.
 
@@ -24,7 +24,7 @@ The consequence is reduced return on data investments. Despite significant spend
 
 ---
 
-## A Decision-Centered Approach to Data Strategy *(Core Idea)*
+## A Decision-Centered Approach to Data Strategy 
 
 Effective data strategy begins with decisions, not data. Organizations must first identify the decisions that have the greatest impact on business outcomes and operational performance.
 
@@ -34,7 +34,7 @@ This approach reframes data strategy as a decision optimization problem. Instead
 
 ---
 
-## From Goals to Intelligence Systems *(System Model)*
+## From Goals to Intelligence Systems 
 
 The structure of a decision-centered data strategy can be represented as:
 
@@ -52,7 +52,7 @@ This model ensures that every data investment is directly linked to a decision a
 
 ---
 
-## How Data Strategy Translates into Execution *(Mechanism)*
+## How Data Strategy Translates into Execution 
 
 ### Decision Mapping Frameworks
 
@@ -98,7 +98,7 @@ This sequencing ensures that capabilities build progressively. It aligns investm
 
 ---
 
-## Example: Decision Automation at Scale *(Real-World Example)*
+## Example: Decision Automation at Scale 
 
 Amazon operates at a scale where thousands of decisions must be made continuously across logistics, pricing, recommendations, and inventory management. These decisions directly influence efficiency, customer satisfaction, and revenue.
 
@@ -110,7 +110,7 @@ This approach ensures that data systems are tightly coupled with decision-making
 
 ---
 
-## Data Strategy as the Foundation of Decision Intelligence *(Strategic Insight)*
+## Data Strategy as the Foundation of Decision Intelligence 
 
 Data strategy defines where and how intelligence systems create value within an organization. By focusing on decisions rather than technologies, it provides a clear framework for prioritizing investments.
 
