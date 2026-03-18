@@ -2,7 +2,7 @@
 
 ---
 
-## The Continuous Recording of Digital Activity *(Opening Observation)*
+## The Continuous Recording of Digital Activity 
 
 Modern digital systems continuously generate records describing the activity occurring within applications, devices, and infrastructure. User interactions, financial transactions, operational processes, and system behaviors are logged as events that flow into data platforms. These records power analytics dashboards, operational monitoring tools, and machine learning pipelines.
 
@@ -14,7 +14,7 @@ Data collection therefore begins with the technical capability to observe events
 
 ---
 
-## The Challenge of Capturing Real-World Activity *(Problem)*
+## The Challenge of Capturing Real-World Activity 
 
 Real-world processes unfold continuously across many systems and environments. Customers interact with digital products, employees operate internal tools, machines perform physical operations, and infrastructure components manage system workloads. Much of this activity occurs dynamically and disappears immediately once it happens.
 
@@ -28,7 +28,7 @@ The fundamental challenge is to translate ongoing real-world activity into relia
 
 ---
 
-## Instrumentation as the Origin of Data *(Core Idea)*
+## Instrumentation as the Origin of Data 
 
 Data originates when real-world events are observed and recorded through instrumentation. Instrumentation refers to the mechanisms that detect activity within systems and convert it into measurable signals.
 
@@ -40,7 +40,7 @@ Reliable instrumentation therefore determines how accurately organizations can o
 
 ---
 
-## From Event Occurrence to Data Record *(System Model)*
+## From Event Occurrence to Data Record 
 
 The transformation from real-world activity to analyzable data can be described through a simple sequence:
 
@@ -58,7 +58,7 @@ Through this process, transient activity becomes persistent information. Events 
 
 ---
 
-## How Systems Capture Observations *(Mechanism)*
+## How Systems Capture Observations 
 
 ### Events and State Data
 
@@ -104,7 +104,7 @@ Consistency is especially important when multiple systems contribute observation
 
 ---
 
-## Example: Telemetry in Mobile Applications *(Real-World Example)*
+## Example: Telemetry in Mobile Applications 
 
 Mobile applications provide a clear example of how instrumentation captures user activity and system performance. Modern apps embed telemetry systems that monitor both user interactions and application behavior.
 
@@ -118,7 +118,7 @@ Because telemetry systems capture events continuously across millions of devices
 
 ---
 
-## Observability as the Foundation of Data Systems *(Strategic Insight)*
+## Observability as the Foundation of Data Systems 
 
 Observability determines how well organizations can understand the systems and environments they operate. Instrumentation transforms fleeting events into durable digital records that can be examined and interpreted.
 
