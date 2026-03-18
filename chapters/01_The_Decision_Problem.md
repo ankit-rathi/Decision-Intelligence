@@ -1,5 +1,6 @@
 # Chapter 1 — The Decision Problem
 
+---
 
 ## Choices That Shape Organizations
 
@@ -11,6 +12,7 @@ Some decisions generate enormous value. Others quietly erode competitive positio
 
 At its core, organizational success is not simply the result of effort or innovation. It is the cumulative result of decisions made under uncertainty.
 
+---
 ## The Difficulty of Judging Decisions
 
 Business environments are inherently unpredictable. Customer preferences evolve, technologies shift, competitors adapt, and regulatory landscapes change. Even well-informed leaders must allocate resources without knowing how these external forces will unfold.
@@ -23,6 +25,8 @@ Over time, this confusion prevents organizations from learning effectively. Team
 
 The result is a cycle where major commitments continue to rely on intuition, fragmented information, or inconsistent reasoning.
 
+---
+
 ## Organizations as Decision Engines 
 
 Organizations exist primarily to make decisions under uncertainty. Their fundamental task is to interpret signals from the external world and translate them into coordinated actions.
@@ -32,6 +36,8 @@ Information about markets, customers, technology, and competition flows into the
 The effectiveness of an organization therefore depends not only on what it does, but on how it decides what to do. Strong decision processes lead to better resource allocation, clearer strategy, and more consistent long-term outcomes.
 
 Improving organizational performance ultimately requires improving the systems that generate decisions.
+
+---
 
 ## From Environment to Outcome 
 
@@ -50,6 +56,8 @@ Once a decision is made, it triggers an **action**. Resources are deployed, team
 Finally, actions interact with the environment to produce **outcomes**. Customers respond, competitors react, and financial results emerge. Outcomes reveal what happened, but they do not eliminate the uncertainty that existed when the decision was made.
 
 This sequence forms the basic loop through which organizations interact with the world.
+
+---
 
 ## How Decisions Shape Organizational Performance 
 
@@ -101,6 +109,8 @@ Over time, these misallocations compound. Competitors that consistently make bet
 
 Organizational performance therefore reflects not one decision, but thousands of choices made over time.
 
+---
+
 ## Example: Netflix and Content Investment 
 
 Content investment decisions illustrate the challenge of choosing under uncertainty. Streaming platforms must decide which films and series to produce before they know how audiences will respond.
@@ -112,6 +122,8 @@ Netflix analyzes large volumes of viewing data to guide these choices. The compa
 Despite this analysis, uncertainty remains significant. Audience tastes evolve, cultural moments emerge unexpectedly, and marketing campaigns influence reception. Some productions become global hits while others fail to attract sustained attention.
 
 The key challenge is not eliminating uncertainty but deciding how to allocate billions of dollars across thousands of possible projects. The quality of the decision process determines how effectively capital is distributed across these opportunities.
+
+---
 
 ## Why Decision Quality Matters 
 
