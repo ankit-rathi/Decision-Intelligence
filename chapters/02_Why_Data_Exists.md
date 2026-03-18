@@ -2,7 +2,7 @@
 
 ---
 
-## The Rise of Organizational Observation *(Opening Observation)*
+## The Rise of Organizational Observation
 
 Modern organizations continuously observe the environments in which they operate. Machines emit sensor readings, digital platforms log user interactions, supply chains generate transaction records, and markets produce streams of economic signals. Across industries, dashboards, monitoring systems, and reporting pipelines aggregate these signals into operational visibility.
 
@@ -14,7 +14,7 @@ Data collection is not an end in itself. It is a structured response to uncertai
 
 ---
 
-## The Incomplete Visibility of Reality *(Problem)*
+## The Incomplete Visibility of Reality 
 
 Decisions depend on understanding the conditions in which an organization operates. Leaders need to know how customers behave, how markets evolve, and how internal systems perform. Yet reality cannot be directly accessed in its entirety.
 
@@ -26,7 +26,7 @@ The challenge for organizations is therefore not simply gathering information. I
 
 ---
 
-## Data as a Representation of Reality *(Core Idea)*
+## Data as a Representation of Reality
 
 Data exists to reduce uncertainty about reality. Organizations observe events, behaviors, and conditions occurring in the external world and record those observations in structured form.
 
@@ -38,7 +38,7 @@ In this way, data acts as an intermediate layer between the world itself and the
 
 ---
 
-## From Events to Recorded Observations *(System Model)*
+## From Events to Recorded Observations 
 
 The creation of data can be understood as a simple transformation process:
 
@@ -56,7 +56,7 @@ Data therefore functions as a representation of reality captured through measure
 
 ---
 
-## How Observations Become Useful Organizational Signals *(Mechanism)*
+## How Observations Become Useful Organizational Signals 
 
 ### Information, Data, and Knowledge
 
@@ -116,7 +116,7 @@ The long-term value of data lies in its reusability. Each observation contribute
 
 ---
 
-## Example: Observing the Atmosphere in Weather Forecasting *(Real-World Example)*
+## Example: Observing the Atmosphere in Weather Forecasting 
 
 Weather forecasting illustrates how systematic observation converts environmental signals into usable data. Meteorological organizations monitor atmospheric conditions across the planet using a wide network of instruments.
 
@@ -130,7 +130,7 @@ Continuous measurement improves forecasting because it produces richer represent
 
 ---
 
-## Data as the First Layer of Decision Intelligence *(Strategic Insight)*
+## Data as the First Layer of Decision Intelligence 
 
 Data allows organizations to observe and represent aspects of the external world at scale. Through systematic measurement, signals about customers, operations, and markets become visible in structured form.
 
