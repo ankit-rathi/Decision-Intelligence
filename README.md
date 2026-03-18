@@ -22,8 +22,6 @@ This book explores how modern organizations design systems that convert observat
 Modern organizations exist to make decisions under uncertainty.
 This section establishes the economic and informational foundations of decision systems.
 
----
-
 ### 1. The Decision Problem
 
 Organizations operate by making decisions under uncertainty.
@@ -36,8 +34,6 @@ Topics
 * the limits of intuition and judgment
 * organizations as decision systems
 
----
-
 ### 2. Why Data Exists
 
 Data exists to reduce uncertainty about the world.
@@ -49,8 +45,6 @@ Topics
 * signal vs noise
 * the economics of information
 * data as an organizational asset
-
----
 
 ### 3. The Decision Intelligence Loop
 
@@ -68,8 +62,6 @@ Topics
 Reality → Data → Intelligence → Decision → Action → Outcome → Learning
 ```
 
----
-
 ## PART II — From Reality to Data
 
 How real-world systems become measurable observations.
@@ -77,8 +69,6 @@ How real-world systems become measurable observations.
 ```
 Reality → Data
 ```
-
----
 
 ### 4. Modeling Reality
 
@@ -92,8 +82,6 @@ Topics
 * schema design
 * operational data systems
 
----
-
 ### 5. Observing and Capturing Data
 
 Data quality begins when reality is observed.
@@ -105,8 +93,6 @@ Topics
 * logs, sensors, and applications
 * structured vs unstructured observations
 * measurement bias
-
----
 
 ### 6. Integrating Data Systems
 
@@ -121,8 +107,6 @@ Topics
 * schema evolution
 * unified data layers
 
----
-
 ## PART III — From Data to Intelligence
 
 How organizations transform raw data into understanding and prediction.
@@ -130,8 +114,6 @@ How organizations transform raw data into understanding and prediction.
 ```
 Data → Intelligence
 ```
-
----
 
 ### 7. Analytical Intelligence
 
@@ -146,8 +128,6 @@ Topics
 * exploratory analysis
 * causal reasoning
 
----
-
 ### 8. Predictive Intelligence
 
 Machine learning predicts what is likely to happen next.
@@ -159,8 +139,6 @@ Topics
 * forecasting and classification
 * model evaluation
 * bias and variance
-
----
 
 ### 9. The Intelligence Lifecycle
 
@@ -175,8 +153,6 @@ Topics
 * feedback data
 * the machine learning lifecycle
 
----
-
 ## PART IV — From Intelligence to Decisions
 
 Predictions create value only when they influence decisions.
@@ -184,8 +160,6 @@ Predictions create value only when they influence decisions.
 ```
 Intelligence → Decision → Action → Outcome
 ```
-
----
 
 ### 10. Designing Decisions
 
@@ -199,8 +173,6 @@ Topics
 * risk trade-offs
 * human vs algorithmic decisions
 
----
-
 ### 11. Operational Decision Systems
 
 Decision logic must be embedded in products and workflows.
@@ -212,8 +184,6 @@ Topics
 * intelligence APIs
 * operational AI systems
 * automated decision systems
-
----
 
 ### 12. Measuring Decision Outcomes
 
@@ -227,8 +197,6 @@ Topics
 * outcome measurement systems
 * closed-loop decision systems
 
----
-
 ## PART V — Learning Systems and the Decision Flywheel
 
 How organizations improve decisions over time.
@@ -236,8 +204,6 @@ How organizations improve decisions over time.
 ```
 Outcome → Learning → Better Decisions
 ```
-
----
 
 ### 13. The Decision Flywheel
 
@@ -249,8 +215,6 @@ Topics
 * compounding intelligence
 * data network effects
 * learning cycles
-
----
 
 ### 14. Learning and Execution Systems
 
@@ -264,8 +228,6 @@ Topics
 * ML system architecture
 * model deployment pipelines
 
----
-
 ### 15. Experimentation Systems
 
 Controlled experiments accelerate organizational learning.
@@ -278,13 +240,9 @@ Topics
 * product experimentation
 * continuous optimization
 
----
-
 ## PART VI — Building the Data Organization
 
 Turning decision intelligence into organizational capability.
-
----
 
 ### 16. Data Platforms
 
@@ -298,8 +256,6 @@ Topics
 * feature stores
 * modern data infrastructure
 
----
-
 ### 17. Data Trust
 
 Reliable decisions require trustworthy data.
@@ -310,8 +266,6 @@ Topics
 * governance and stewardship
 * data lineage
 * compliance and privacy
-
----
 
 ### 18. Observability for Data and Decisions
 
@@ -324,8 +278,6 @@ Topics
 * anomaly detection
 * decision monitoring
 
----
-
 ### 19. Data Strategy
 
 Data strategy determines which decisions organizations should improve.
@@ -336,8 +288,6 @@ Topics
 * high-value decision use cases
 * capability maturity
 * platform investment strategy
-
----
 
 ### 20. The Data-Driven Organization
 
@@ -350,6 +300,4 @@ Topics
 * leadership principles
 * AI-enabled organizations
 * the future of intelligent enterprises
-
----
 
