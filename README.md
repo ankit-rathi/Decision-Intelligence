@@ -3,7 +3,7 @@
 ### How Data and AI Turn Decisions into Business Outcomes  
 
 
-![](https://cdn-images-1.medium.com/max/1800/1*uSMoCJ0CW2YvRsxSMqYkuQ.png)
+![](https://cdn-images-1.medium.com/max/1800/1*ocC4_Jkmv5ZtmId2eOtxrw.png)
 
 # About the Book
 
