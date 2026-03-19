@@ -42,9 +42,9 @@ The relationship between learning and execution can be represented as a bidirect
 offline learning system ↔ online execution system
 ```
 
-The **offline learning system** operates on historical data. It ingests data collected from operational systems, processes it through pipelines, and trains predictive models. This environment supports experimentation and iteration, allowing teams to refine models over time.
+The *offline learning system* operates on historical data. It ingests data collected from operational systems, processes it through pipelines, and trains predictive models. This environment supports experimentation and iteration, allowing teams to refine models over time.
 
-The **online execution system** operates in real time. It receives live events, applies trained models, and generates predictions that drive decisions. This system is optimized for low latency and high reliability.
+The *online execution system* operates in real time. It receives live events, applies trained models, and generates predictions that drive decisions. This system is optimized for low latency and high reliability.
 
 Updates flow from the learning system to the execution system through deployment pipelines. These pipelines ensure that new models are tested, versioned, and safely integrated into production.
 
@@ -118,4 +118,4 @@ This architectural pattern ensures that continuous improvement does not come at 
 
 However, passive learning from outcomes is not sufficient. Organizations must also actively explore alternative strategies to improve decision performance. This requires structured experimentation that evaluates different approaches under controlled conditions.
 
-The integration of learning and execution systems therefore sets the stage for the next capability: systematically testing decisions through **experimentation systems**.
+The integration of learning and execution systems therefore sets the stage for the next capability: systematically testing decisions through *experimentation systems*.
