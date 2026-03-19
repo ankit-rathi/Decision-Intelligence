@@ -42,13 +42,13 @@ The process of converting raw data into actionable understanding can be represen
 data → metrics → analysis → insight
 ```
 
-The pipeline begins with **data**, which consists of observations collected from operational systems. This data includes events, transactions, and state records that describe system activity.
+The pipeline begins with *data*, which consists of observations collected from operational systems. This data includes events, transactions, and state records that describe system activity.
 
-The next stage introduces **metrics**. Metrics aggregate and summarize raw data into meaningful measurements such as revenue, retention rates, or conversion ratios. These measurements provide a structured way to track system performance.
+The next stage introduces *metrics*. Metrics aggregate and summarize raw data into meaningful measurements such as revenue, retention rates, or conversion ratios. These measurements provide a structured way to track system performance.
 
-Once metrics are defined, **analysis** examines relationships and variations within those measurements. Analysts investigate trends over time, compare segments, and identify anomalies or patterns that require explanation.
+Once metrics are defined, *analysis* examines relationships and variations within those measurements. Analysts investigate trends over time, compare segments, and identify anomalies or patterns that require explanation.
 
-The final output is **insight**. Insights interpret the results of analysis, explaining what has occurred and why it matters. They translate numerical patterns into narratives that inform decision-making.
+The final output is *insight*. Insights interpret the results of analysis, explaining what has occurred and why it matters. They translate numerical patterns into narratives that inform decision-making.
 
 This pipeline formalizes the transition from observation to understanding.
 
@@ -120,4 +120,4 @@ By explaining historical behavior, analytics supports monitoring, diagnosis, and
 
 However, analytical intelligence is inherently retrospective. It explains what has already occurred but does not directly determine future outcomes. Organizations that rely solely on descriptive and diagnostic insights remain reactive.
 
-The next stage of decision intelligence extends beyond explanation. It focuses on anticipating future behavior and outcomes based on observed patterns. This shift introduces the domain of **predictive intelligence**, where models estimate what is likely to happen next.
+The next stage of decision intelligence extends beyond explanation. It focuses on anticipating future behavior and outcomes based on observed patterns. This shift introduces the domain of *predictive intelligence*, where models estimate what is likely to happen next.
