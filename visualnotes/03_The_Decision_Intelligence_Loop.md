@@ -1,31 +1,29 @@
-### Decision Intelligence Loop
+### The Decision Intelligence Loop
 
-**Value emerges only when data flows through a closed loop of intelligence, decisions, actions, and learning**
+**Decisions improve through closed feedback loops**
 
 ---
 
-### Core Loop
+### Loop Overview
 
 [Icon Suggestion: cycle]
 
-* Reality signals — external environment generates events
+* Reality input — environment generates raw signals
 * Data capture — record structured observations
 * Intelligence layer — analyze patterns, generate insight
 * Decision logic — choose actions under uncertainty
 * Action execution — deploy resources operationally
-* Outcome results — environment responds to actions
-* Learning feedback — update future understanding
 
 ---
 
-### System Flow
+### End-to-End Flow
 
 [Icon Suggestion: arrows]
 
 * Sequential stages — reality → learning transformation
-* Value chain — each stage reduces uncertainty
-* Flow continuity — outputs feed next stage
-* Closed loop — outcomes refine inputs
+* Outcome generation — actions interact environment
+* Feedback return — outcomes feed back learning
+* Loop closure — continuous system refinement
 
 ---
 
@@ -33,32 +31,21 @@
 
 [Icon Suggestion: gap]
 
-* Dashboard limits — show what, not what next
-* Static reporting — insights lack action linkage
-* Workflow disconnect — analysis outside decisions
-* Unused intelligence — insights fail to trigger change
+* Dashboard limits — visibility without action guidance
+* Static insights — reports not decision inputs
+* Workflow disconnect — analysis outside operations
+* Decision inertia — insights fail to trigger change
 
 ---
 
-### Decision Systems
-
-[Icon Suggestion: network]
-
-* Decision environments — meetings, planning cycles, reviews
-* Role coordination — distributed ownership of choices
-* Process structure — how decisions are made
-* Authority flow — who acts on insights
-
----
-
-### Intelligence Integration
+### Decision Integration
 
 [Icon Suggestion: link]
 
-* Embedded analytics — integrate into workflows
-* Model outputs — guide operational decisions
-* Real-time inputs — feed live decision points
+* Embedded analytics — integrate into decision workflows
+* Model outputs — guide operational choices
 * Action triggers — connect insight to execution
+* Real-time inputs — inform live decisions
 
 ---
 
@@ -67,9 +54,9 @@
 [Icon Suggestion: refresh]
 
 * Outcome measurement — track effects of actions
-* Expectation comparison — predicted vs actual results
+* Expectation gap — compare predicted vs actual
 * Model updates — refine assumptions, logic
-* Loop reinforcement — improve future decisions
+* Learning loop — improve future decisions
 
 ---
 
@@ -77,18 +64,7 @@
 
 [Icon Suggestion: warning]
 
-* Siloed stages — breaks in loop continuity
+* Siloed systems — breaks in loop continuity
 * Weak ownership — unclear decision accountability
-* Delayed action — slow response to insight
-* Broken feedback — no learning from outcomes
-
----
-
-### Strategic Implication
-
-[Icon Suggestion: system]
-
-* Loop design — optimize end-to-end flow
-* Speed advantage — faster decision cycles
-* Consistency gain — repeatable decision logic
-* Performance driver — compounding decision quality
+* Delayed execution — slow response to insights
+* Broken feedback — no outcome-driven learning
