@@ -1,4 +1,4 @@
-### Word TBC
+### Furnish TBC
 
 1. Diagrams
 2. Visual Note for each chapter
