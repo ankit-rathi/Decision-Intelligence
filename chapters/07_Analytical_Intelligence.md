@@ -39,7 +39,7 @@ The outcome of this process is insight. Insights explain what has happened withi
 The process of converting raw data into actionable understanding can be represented as a structured pipeline:
 
 ```text id="b4hpa1"
-data → metrics → analysis → insight
+[ Data ] → { Metrics } → { Analysis } → [ Insight ]
 ```
 
 The pipeline begins with *data*, which consists of observations collected from operational systems. This data includes events, transactions, and state records that describe system activity.
