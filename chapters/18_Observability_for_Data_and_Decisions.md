@@ -41,7 +41,7 @@ When deviations occur, alerting mechanisms notify relevant teams. This allows fo
 The structure of observability in data and decision systems can be represented as:
 
 ```text id="8t5qpb"
-data systems → monitoring → alerts → remediation
+( Data Systems ) → { Monitoring } → [ Alerts ] → { Remediation }
 ```
 
 The process begins with *data systems*, which include pipelines, analytics platforms, and machine learning models operating in production. These systems generate outputs that drive decisions and business outcomes.
