@@ -43,7 +43,7 @@ In this way, data acts as an intermediate layer between the world itself and the
 The creation of data can be understood as a simple transformation process:
 
 ```text
-reality → observation → data
+( Reality ) → { Observation } → [ Data ]
 ```
 
 The process begins with *reality*, which consists of events, behaviors, and conditions occurring in the world. Customers interact with products, machines operate within factories, markets fluctuate, and environmental conditions evolve. These phenomena exist independently of whether an organization measures them.
