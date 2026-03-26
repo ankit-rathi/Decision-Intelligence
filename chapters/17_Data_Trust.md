@@ -39,7 +39,7 @@ By creating a trusted data layer, organizations provide a stable foundation for 
 The transformation of raw data into trusted data can be represented as:
 
 ```text id="9ccrz8"
-data source → validation → governance → trusted data layer
+( Data Source ) → { Validation } → { Governance } → [ Trusted Data Layer ]
 ```
 
 The process begins with *data sources*, which generate raw observations from operational systems. These sources include applications, transactional systems, and external data feeds. At this stage, data is often incomplete, inconsistent, or unstructured.
