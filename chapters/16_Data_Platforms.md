@@ -39,7 +39,7 @@ By abstracting infrastructure complexity, data platforms allow teams to focus on
 The structure of a data platform can be represented as a sequential flow:
 
 ```text
-data sources → ingestion → warehouse/lakehouse → analytics → ML
+( Data Sources ) → { Ingestion } → [ Warehouse / Lakehouse ] → { Analytics } → { ML }
 ```
 
 The process begins with *data sources*, which generate raw observations. These sources include product applications, transactional systems, and operational processes. They produce structured and semi-structured data that reflects real-world activity.
