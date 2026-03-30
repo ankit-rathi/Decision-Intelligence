@@ -108,6 +108,6 @@ How organizations operationalize decision intelligence at scale.
 
 ---
 
-- iii. [Bibliograpy](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/98_Bibliography.md)
+- iii. [Bibliography](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/98_Bibliography.md)
 - iv. [About the Author](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/99_About_The_Author.md)
 
