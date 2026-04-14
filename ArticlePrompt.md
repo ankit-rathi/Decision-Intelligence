@@ -1,4 +1,4 @@
-Write an article on 'Decision Under Uncertainty' using a strict first-principles approach.
+Write an article on [TOPIC] using a strict first-principles approach.
 
 Start from the most fundamental truth of the topic and build the argument step by step. Each paragraph should logically build on the previous one, with no jumps in reasoning. Avoid surface-level explanations—focus on underlying mechanisms and why things work the way they do.
 
@@ -24,10 +24,5 @@ Match this style:
 - Clear, grounded, no hype
 - Focus on structural shifts and underlying mechanics
 - End with a strong, clean synthesis (not motivational, but insightful)
-
-Previous Topic: None
-Next Topic: Expected Value & Trade-offs
-
-Make sure this article doesn't repeat what is covered in previous topic and what would be covered in next topic.
 
 The goal is to make the reader feel: “This made everything click.”
